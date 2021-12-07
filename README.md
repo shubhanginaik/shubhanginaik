@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on APIS and web development.
 - 📫 How to reach me @ shubhangi.naik83@gmail.com
 <p align center>
-  Endpoint: api/top-langs?username=shubhanginaik
+ 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanginaik)](https://github.com/shubhanginaik/github-readme-stats)
 
 </p>
