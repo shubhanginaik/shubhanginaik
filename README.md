@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhanginaik
-- 🌱 I’m currently learning full stack development.
--  👀 I’m interested in web designing and coding.
+- 🌱 Currently I’m learning full stack development.
+-  👀 I’m interested in web development and automation testing.
 - 💞️ I’m looking to collaborate on APIS and web development.
 - 📫 How to reach me @ shubhangi.naik83@gmail.com
 <p align center>
