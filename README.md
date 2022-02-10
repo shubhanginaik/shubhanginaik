@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on APIS and web development.
 - 📫 Reach me @ shubhangi.naik83@gmail.com
 - ⚡ Fun fact **I play games and go to the GYM very often.**
+</br>
 
 ## 🚀 Languages and Tools:
 
