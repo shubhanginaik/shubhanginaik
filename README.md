@@ -29,11 +29,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<p align center>
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanginaik)](https://github.com/shubhanginaik/github-readme-stats)
-
-</p>
 </br>
 
 <!---
