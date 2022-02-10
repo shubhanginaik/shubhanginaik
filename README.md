@@ -21,9 +21,10 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 </br>
+## 📊 My Github Stats
 
  <br/>
- ## 📊 My Github Stats
+ 
     <a href="https://github.com/shubhanginaik/github-readme-stats"><img alt="Shubhangi Naik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanginaik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </br>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Shubhangi Naik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanginaik&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
