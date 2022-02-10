@@ -4,11 +4,11 @@
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
 
-- 🌱 Currently I’m learning full stack development.
--  👀 I’m interested in web development and automation testing.
-- 💞️ I’m looking to collaborate on APIS and web development.
+- 🌱 Currently I’m learning full stack development **Business College Helsinki.**
+-  👀 I’m interested in **web development and automation testing.
+- 💞️ I’m looking to collaborate on web and API development.
 - 📫 Reach me @ shubhangi.naik83@gmail.com
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games and go do YOGA very often.**
 </br>
 
 ## 🚀 Languages and Tools:
