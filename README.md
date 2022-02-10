@@ -2,7 +2,7 @@
 - 🌱 Currently I’m learning full stack development.
 -  👀 I’m interested in web development and automation testing.
 - 💞️ I’m looking to collaborate on APIS and web development.
-- 📫 How to reach me @ shubhangi.naik83@gmail.com
+- 📫 Reach me @ shubhangi.naik83@gmail.com
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
