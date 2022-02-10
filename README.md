@@ -3,6 +3,7 @@
 -  👀 I’m interested in web development and automation testing.
 - 💞️ I’m looking to collaborate on APIS and web development.
 - 📫 Reach me @ shubhangi.naik83@gmail.com
+- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
@@ -19,6 +20,7 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
+</br>
 
 <p align center>
  
