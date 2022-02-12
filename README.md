@@ -8,7 +8,7 @@
 -  👀 I’m interested in **web development and automation testing.
 - 💞️ I’m looking to collaborate on web and API development.
 - 📫 Reach me @ shubhangi.naik83@gmail.com
-- ⚡ Fun fact **I play games and go do YOGA very often.**
+- ⚡ Fun fact **I play games and do YOGA very often.**
 </br>
 
 ## 🚀 Languages and Tools:
