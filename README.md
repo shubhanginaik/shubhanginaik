@@ -5,7 +5,7 @@
 
 
 - 🌱 Currently I’m learning full stack development @ **Business College Helsinki.**
--  👀 I’m interested in  ***Web development(front-end/back-end) and automation testing.
+-  👀 I’m interested in  **Web development(front-end/back-end) and automation testing.**
 - 💞️ I’m looking to collaborate on web and API development.
 - 📫 Reach me @ shubhangi.naik83@gmail.com
 - ⚡ Fun fact **I play games and do YOGA very often.**
