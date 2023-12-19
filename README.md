@@ -4,7 +4,8 @@
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
 
-- 🌱 Currently I’m learning full stack development @ **Business College Helsinki.**
+- 🌱 Currently I’m working as a software developer @ **Nokia.**
+- 🌱  I have completed full stack development @ **Business College Helsinki.**
 -  👀 I’m interested in  **Web development(front-end/back-end) and automation testing.**
 - 💞️ I’m looking to collaborate on web and API development.
 - 📫 Reach me @ shubhangi.naik83@gmail.com
