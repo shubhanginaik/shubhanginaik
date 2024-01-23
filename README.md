@@ -5,7 +5,7 @@
 
 
 - 🌱 Currently I’m working as a software developer @ **Nokia.**
-- 🌱  I have completed full stack development @ **Business College Helsinki.**
+- 🌱  I have done a Full Stack Web Development Vocational Pragram @ **Business College Helsinki.**
 -  👀 I’m interested in  **Web development(front-end/back-end) and automation testing.**
 - 💞️ I’m looking to collaborate on web and API development.
 - 📫 Reach me @ shubhangi.naik83@gmail.com
