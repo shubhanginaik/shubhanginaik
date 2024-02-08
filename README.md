@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
 
-- 🌱 Currently I’m working as a software developer @ **Nokia.**
+- 🌱 Currently I’m working as a software developer.**
 - 🌱  I have done a Full Stack Web Development Vocational Pragram @ **Business College Helsinki.**
 -  👀 I’m interested in  **Web development(front-end/back-end) and automation testing.**
 - 💞️ I’m looking to collaborate on web and API development.
