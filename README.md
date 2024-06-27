@@ -1,13 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubhangi!</h1>
-<h3 align="center">I'm a passionate Full Stack Developer</h3>
+<h3 align="center">I'm a passionate Full Stack Software Developer</h3>
 
 
 - 🌱 Currently I’m working as a **software developer.**
 - 🌱  I have done a Full Stack Web Development Vocational Pragram @ **Business College Helsinki.**
--  👀 I’m interested in  **Web development(front-end/back-end) and automation testing.**
-- 💞️ I’m looking to collaborate on web and API development.
+-  👀 I’m interested in  **Software development(front-end/back-end) and automation testing.**
+- 💞️ I’m looking to collaborate on Software development, testing, and project coordination. 
 - 📫 Reach me @ shubhangi.naik83@gmail.com
 - ⚡ Fun fact **I play games and do YOGA very often.**
 </br>
